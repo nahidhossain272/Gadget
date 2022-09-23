@@ -1,3 +1,25 @@
-h1{
-    color:blue;
+.Button{
+    background-image: linear-gradient(to bottom, orange,  #FF136F 100%);
+    color:#fff;
+    border:none;
+    border-radius: 8px;
+    padding:9px 25px;
+    cursor:pointer;
+   
+}
+.area{
+    background-image: url("images/bg-1.png");
+    background-repeat: no-repeat;
+    background-position: 30rem;
+    background-size:contain;
+}
+.container{
+    margin-top: 15px;
+}
+.phone{
+    background-image: url("images/bg-2.png");
+    background-repeat: no-repeat;
+    background-position: 30rem;
+    background-size:contain;
+   
 }
