@@ -45,6 +45,12 @@
     text-align: center;
     margin-top: 80px;
 }
+.cat1, .cat2, .cat3{
+    text-align: center;
+}
+.Bag{
+     float:right;
+}
 
 
 
