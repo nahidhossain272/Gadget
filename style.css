@@ -16,10 +16,35 @@
 .container{
     margin-top: 15px;
 }
-.phone{
+.bg-2{
     background-image: url("images/bg-2.png");
     background-repeat: no-repeat;
-    background-position: 30rem;
-    background-size:contain;
-   
+    float:left;
 }
+.iphone, .text, .price, .samsung, .redmi{
+    text-align: center;
+}
+#tab{
+    margin-left:30%;
+}
+.card{
+    border:none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+.phone{
+    margin-top: 20px;
+}
+.pc{
+    margin-top:50px;
+}
+.asus, .razer, .xiaomi{
+    text-align: center;
+}
+.categories{
+    text-align: center;
+    margin-top: 80px;
+}
+
+
+
